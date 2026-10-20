@@ -13,9 +13,6 @@ and tell-tale metadata fields such as `prompt:`, `negative prompt:`,
 
 Everything runs locally. No file is uploaded anywhere.
 
-![Screenshot](docs/screenshot.png)
-*Replace this with a screenshot of the application window.*
-
 ---
 
 ## Table of Contents
